@@ -1,0 +1,29 @@
+{
+  "raw_modelled_articles": 741,
+  "final_cluster_count": 9,
+  "final_actor_count": 482,
+  "final_outlet_count": 142,
+  "top_narrative_cluster": "Ukraine war and moral neutrality",
+  "top_actor": "Government",
+  "top_outlet": "The Irish Times",
+  "dominant_stance_distribution": {
+    "Mixed / procedural / unclear": 354,
+    "Preserve / strengthen neutrality": 292,
+    "Move away / stronger alignment": 72,
+    "Reform / redefine neutrality": 17,
+    "Lean preserve neutrality": 6
+  },
+  "dominant_frame_distribution": {
+    "Other Neutrality Debate": 388,
+    "Ukraine / Russia / Moral Responsibility": 149,
+    "Shannon / US Military / Anti-war": 67,
+    "Defence Capability / Underinvestment": 59,
+    "Peacekeeping / Identity / Tradition": 29,
+    "Triple Lock / UN Mandate": 28,
+    "Budget / Fiscal / Public Finances": 10,
+    "NATO / EU Security Alignment": 6,
+    "Public Consent / Referendum": 5
+  },
+  "date_warning": "The sample has no clean publication date column. Dates are only partially estimated, so intervention-impact analysis should be described as provisional unless real publication dates are supplied.",
+  "data_warning": "Actor extraction is model-derived from article text because the supplied dataset has no dedicated actor/entity/quote column."
+}

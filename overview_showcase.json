@@ -1,0 +1,12 @@
+{
+  "raw_modelled_articles": 741,
+  "showcase_cluster_count": 9,
+  "showcase_actor_count": 39,
+  "showcase_outlet_count": 142,
+  "top_narrative_cluster": "Ukraine war and moral neutrality",
+  "top_actor": "Government",
+  "top_media_outlet": "The Irish Times",
+  "date_warning": "The sample has no clean publication date column. True intervention-impact analysis needs real publication timestamps.",
+  "data_warning": "Actor extraction is model-derived from article text because the supplied dataset has no dedicated actor/entity/quote column.",
+  "showcase_note": "This showcase file filters out low-confidence named-entity artefacts and keeps client-facing agenda shapers only."
+}

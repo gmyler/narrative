@@ -1,0 +1,39 @@
+Narrative Intelligence Demo — Executive Summary
+=======================================================
+
+Articles modelled: 741
+Final narrative clusters: 9
+Final actor/organisation count: 482
+Media outlets analysed: 142
+
+Top narrative by weighted volume: Ukraine war and moral neutrality
+Top actor/organisation by impact score: Government
+Top media outlet by impact score: The Irish Times
+
+Top narrative clusters:
+- Ukraine war and moral neutrality: 364 mentions, 299.8 weighted mentions, stance=-0.045
+- Sinn Féin and government neutrality clash: 107 mentions, 82.1 weighted mentions, stance=-0.342
+- Referendum and constitutional protection: 68 mentions, 51.7 weighted mentions, stance=-0.429
+- Triple Lock and UN mandate debate: 51 mentions, 38.7 weighted mentions, stance=-0.49
+- Public protest and anti-war solidarity: 42 mentions, 33.1 weighted mentions, stance=-0.629
+- Shannon Airport and US military use: 44 mentions, 33.0 weighted mentions, stance=-0.793
+- Defence capability and security gaps: 27 mentions, 20.8 weighted mentions, stance=0.285
+- Sinn Féin and government neutrality clash — Ukraine/political angle: 25 mentions, 19.0 weighted mentions, stance=-0.005
+
+Top agenda shapers:
+- The Irish Times (Media outlet): impact=100.0, role=Media amplifier, stance=Lean preserve
+- Government (Actor / organisation): impact=93.2, role=Government responder / reframer, stance=Lean preserve
+- The Irish Independent (Media outlet): impact=57.3, role=Media amplifier, stance=Mixed / unclear
+- The Irish Examiner (Media outlet): impact=56.4, role=Media amplifier, stance=Lean preserve
+- Dáil (Actor / organisation): impact=52.7, role=Defender of neutrality, stance=Strong preserve
+- Micheál Martin (Actor / organisation): impact=46.7, role=Government responder / reframer, stance=Lean preserve
+- Sinn Féin (Actor / organisation): impact=46.0, role=Opposition / neutrality defender, stance=Strong preserve
+- Defence Forces (Actor / organisation): impact=38.5, role=Amplifier / recurring participant, stance=Lean preserve
+- Russia (Actor / organisation): impact=37.9, role=Geopolitical reference point, stance=Mixed / unclear
+- NATO (Actor / organisation): impact=37.2, role=Alignment reference point, stance=Mixed / unclear
+- Donald Trump (Actor / organisation): impact=37.2, role=Amplifier / recurring participant, stance=Lean preserve
+- Ukraine (Actor / organisation): impact=37.1, role=Geopolitical reference point, stance=Mixed / unclear
+
+Important caveat:
+- The supplied sample has no clean publication date column. True intervention-impact analysis needs real publication timestamps.
+- Actor and role detection are inferred from text because no structured actor/quote field was supplied.
